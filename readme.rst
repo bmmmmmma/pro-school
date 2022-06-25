@@ -1,5 +1,5 @@
 
-The site is written in PHP framework - CodeIgniter. This site was written for the defense of the diploma. This web application allows you to create tests, add courses, and also has an automatic grading system and gradebook
+The site is written in PHP framework - CodeIgniter. This web application allows you to create tests, add courses, and also has an automatic grading system and gradebook
 ###################
 What is CodeIgniter
 ###################
