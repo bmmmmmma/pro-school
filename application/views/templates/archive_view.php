@@ -1,8 +1,8 @@
 <?php if(isset($add)){ ?>
 	<div class="page-header">
-							<h1>
+							<h2>
 								Добавить меяц 
-							</h1>
+							</h2>
 						</div><!-- /.page-header -->
 
 						<div class="row">
